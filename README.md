@@ -1,2 +1,2 @@
 # semester4
-Practical Code of AI &amp; DS Department
+DSAL Practical Code of AI &amp; DS Department
